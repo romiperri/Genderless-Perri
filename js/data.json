@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "nombre": "Buzo comfy",
+        "precio": 8500,
+        "img": "img/buzo.jpeg"
+    },
+    {
+        "id": 2,
+        "nombre": "Campera by colors",
+        "precio": 10500,
+        "img": "img/campera.jpeg"
+    },
+    {
+        "id": 3,
+        "nombre": "Conjunto Urban",
+        "precio": 15570,
+        "img": "img/conjunto.jpeg"
+    },
+    {
+        "id": 4,
+        "nombre": "Camisa Animal",
+        "precio": 9750,
+        "img": "img/camisa.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Campera canguro",
+        "precio": 16790,
+        "img": "img/canguro.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Cardigan Harry.S",
+        "precio": 14560,
+        "img": "img/Harry-Styles.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Jean Roturas",
+        "precio": 9960,
+        "img": "img/vaqueros-rotos.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Remera Mickey",
+        "precio": 8500,
+        "img": "img/camiseta-mickey.jpg"
+    }
+]
